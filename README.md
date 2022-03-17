@@ -1,1 +1,1 @@
-# meti-os
+# metis-os
