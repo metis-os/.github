@@ -1,6 +1,6 @@
 ![metis-os Screenshot](https://raw.githubusercontent.com/metis-os/.github/main/assets/metis-linux-ss.png)
 ```diff
-+ metis linux: Make each program do one thing well
++ metis linux: Artix respin with suckless tools !
 
 '##::::'##:'########:'########:'####::'######::::::::'##:::::::'####:'##::: ##:'##::::'##:'##::::'##:
  ###::'###: ##.....::... ##..::. ##::'##... ##::::::: ##:::::::. ##:: ###:: ##: ##:::: ##:. ##::'##::
