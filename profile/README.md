@@ -12,4 +12,4 @@
 ..:::::..::........:::::..:::::....:::......:::::::::........::....::..::::..:::.......:::..:::::..::
 ```
 
-![Made With Love](http://ForTheBadge.com/images/badges/built-with-love.svg) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Made With Love](../assets/metisshield.svg) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
