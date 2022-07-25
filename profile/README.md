@@ -12,4 +12,4 @@
 ..:::::..::........:::::..:::::....:::......:::::::::........::....::..::::..:::.......:::..:::::..::
 ```
 
-![Made With Love](../assets/metisshield.svg) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Made With Love](https://raw.githubusercontent.com/metis-os/.github/main/assets/metisshield.svg) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
