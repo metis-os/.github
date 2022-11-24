@@ -1,8 +1,11 @@
  <p align="left"><b><metis>🔴 🟡 🟢</metis></b></p>
 <p align="center">
   <a href="https://metislinux.org"><img src="https://raw.githubusercontent.com/metis-os/.github/main/pix/metis-round-01.png" height="130" width="130" alt="Metis Linux"></a>
-</p>
 <h5 align="center"> Yet another minimal, powerful and beautiful <a href="https://www.artixlinux.org">Artix</a> based distro for chads.</h5>
+ <p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-blue?style=flat-square">
+  <img src="https://img.shields.io/github/downloads/metis-os/metis-iso/total?label=downloads&logo=github&color=red&style=flat-square">
+  </p>
 <p align="center">
   <a href="https://metislinux.org" target="_blank"><img alt="website" src="https://img.shields.io/badge/HOME-purple?style=flat-square"></a>
   <a href="https://wiki.metislinux.org" target="_blank"><img alt="wiki" src="https://img.shields.io/badge/WIKI-pink?style=flat-square"></a>
