@@ -13,8 +13,15 @@
   <a href="https://t.me/metislinux" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/TELEGRAM-teal?style=flat-square"></a>
   <a href="https://www.youtube.com/channel/UCINMkia_x966XylNqOL9wqg" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/YOUTUBE-red?style=flat-square"></a>
    <a href="https://twitter.com/pwnwriter" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/TWITTER-blue?style=flat-square"></a>
-
-
  </p>
 
 ![img](https://raw.githubusercontent.com/metis-os/.github/main/pix/Final.png)
+
+
+[Metis Linux](https://metislinux.org) is an [artix](https://artixlinux.org) based distribution that uses **runit** as an init system with the focus on **user freedom, simplicity and yet elegant**. It has default sane configs on **[DWM](https://github.com/metis-os/metis-dwm)**, **[EWM](https://github.com/pwnwriter/ewm)** and **[BSPWM](https://github.com/metis-os/metis-bspwm)**. It uses at most **300 MIB** of **RAM** at it's neutral condition.
+
+**Hack with this beautiful desktop**, ***checkout our collection of recon [tools](https://github.com/metis-os/metis-recon)***.
+
+Thank you so much for checking out here !!!
+
+                              
