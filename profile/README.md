@@ -21,6 +21,6 @@
 
 ![img](https://raw.githubusercontent.com/metis-os/.github/main/pix/Final.png)
 
-A big thanks to  [`Dylan Arps`](https://github.com/dylanaraps), [`Luke smith`](https://github.com/lukesmithxyz), [`catppuccin`](https://github.com/catppuccin), [`adi1090x`](https://github.com/adi1090x), [`Arch linux`](https://archlinux.org) and [`Artix linux`](https://artixinux.org) for helping directly or indirectly.
+A big thanks to  [`Dylan Arps`](https://github.com/dylanaraps), [`Luke smith`](https://github.com/lukesmithxyz), [`catppuccin`](https://github.com/catppuccin), [`adi1090x`](https://github.com/adi1090x), [`Arch linux`](https://archlinux.org), [`Artix linux`](https://artixinux.org)  and all the contributors for helping directly or indirectly.
 
                               
