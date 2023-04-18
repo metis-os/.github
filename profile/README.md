@@ -5,13 +5,13 @@
  <p align="center">
 
 <h6 align="center">
-  <a href="https://metislinux.org">Website</a>
+  <a href="https://metislinux.org">Home</a>
   ·
   <a href="https://metislinux.org/showcase">Showcase</a>
   ·
   <a href="https://wallpaper.metislinux.org">Wallpapers</a>
   ·
-  <a href="https://metislinux.org/wiki">Wiki</a>
+  <a href="https://metislinux.org/docs">Docs</a>
 </h6>
 
 <p align="center">
