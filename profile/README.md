@@ -24,4 +24,4 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
-<p align="center">Copyright &copy; 2022 - present<a href="https://metislinux.org" target="_blank"> METIS Linux ☘️ </a> // <a href="https://github.com/metis-os/.github/blob/main/LICENSE">MIT License</a></p>
+<p align="center">Copyright &copy; 2022 - present<a href="https://metislinux.org" target="_blank"> metislinux ☘️ </a> // <a href="https://github.com/metis-os/.github/blob/main/LICENSE">MIT</a> License</p>
