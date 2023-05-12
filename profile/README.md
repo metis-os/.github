@@ -1,6 +1,6 @@
  <p align="left"><b><metis>🔴 🟡 🟢</metis></b></p>
 <p align="center">
-  <a href="https://metislinux.org"><img src="https://raw.githubusercontent.com/metis-os/.github/main/pix/metis-round-01.png" height="130" width="130" alt="Metis Linux"></a>
+  <a href="https://metislinux.org"><img src="https://raw.githubusercontent.com/metis-os/.github/main/pix/logo.gif" height="200" width="200" alt="Metis Linux"></a>
 <h5 align="center"> Yet another minimal, powerful and beautiful meta x86_64 distro for chads.</h5>
  <p align="center">
 
@@ -20,7 +20,7 @@
 
 
 ![img](https://raw.githubusercontent.com/metis-os/.github/main/pix/Final.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-A big thanks to  [`Dylan Arps`](https://github.com/dylanaraps), [`Luke smith`](https://github.com/lukesmithxyz), [`catppuccin`](https://github.com/catppuccin), [`adi1090x`](https://github.com/adi1090x), [`Arch linux`](https://archlinux.org), [`Artix linux`](https://artixinux.org)  and all the contributors for helping directly or indirectly.
 
                               
