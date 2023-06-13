@@ -19,7 +19,7 @@
 </p>
 
 
-![img](https://raw.githubusercontent.com/metis-os/.github/main/pix/Final.png)
+![img](https://github.com/metis-os/metis-artworks/blob/main/artworks/Metis-Linux-v2.png)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
