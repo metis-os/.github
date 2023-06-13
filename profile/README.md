@@ -7,11 +7,11 @@
 <h6 align="center">
   <a href="https://metislinux.org">Home</a>
   ·
-  <a href="https://metislinux.org/showcase">Showcase</a>
+  <a href="https://metislinux.org/docs/guides/theinit">init sys</a>
   ·
   <a href="https://wallpaper.metislinux.org">Wallpapers</a>
   ·
-  <a href="https://metislinux.org/docs">Docs</a>
+  <a href="https://metislinux.org/docs/install/welcome">Docs</a>
 </h6>
 
 <p align="center">
