@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> *_This project has been deprecated and is no longer maintained, [Read out why?](./why.md)_*
+> *_This project has been deprecated and is no longer maintained, [Read out why?](/profile/why.md)_*
 
  
  
