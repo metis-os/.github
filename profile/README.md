@@ -1,4 +1,9 @@
- <p align="left"><b><metis>🔴 🟡 🟢</metis></b></p>
+> [!IMPORTANT]
+> *_This project has been deprecated and is no longer maintained, [Read out why?](./why.md)_*
+
+ 
+ 
+<p align="left"><b><metis>🔴 🟡 🟢</metis></b></p>
 <p align="center">
   <a href="https://metislinux.org"><img src="https://raw.githubusercontent.com/metis-os/.github/main/pix/logo.gif" height="200" width="200" alt="Metis Linux"></a>
 <h5 align="center">[ Yet another minimal, powerful and beautiful x86_64 distro for chads. ]</h5>
